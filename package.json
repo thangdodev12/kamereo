@@ -1,0 +1,46 @@
+{
+  "name": "base-template",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "1.2.6",
+    "@fortawesome/free-solid-svg-icons": "5.4.1",
+    "@fortawesome/react-fontawesome": "0.1.3",
+    "axios": "^0.18.0",
+    "babel-loader": "8.0.4",
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.14.0",
+    "immutable": "^4.0.0-rc.12",
+    "jest": "23.6.0",
+    "lodash": "^4.17.15",
+    "prop-types": "^15.7.2",
+    "react": "16.5.2",
+    "react-bootstrap": "0.32.4",
+    "react-dom": "16.5.2",
+    "react-redux": "5.0.7",
+    "react-router": "4.3.1 - latest",
+    "react-router-dom": "4.3.1 - latest",
+    "react-scripts": "2.0.3",
+    "redux": "4.0.1",
+    "redux-form": "7.4.2",
+    "redux-saga": "0.16.2",
+    "reselect": "^4.0.0",
+    "sane": "^4.1.0",
+    "styled-components": "4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
